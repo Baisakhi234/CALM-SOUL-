@@ -7,9 +7,9 @@ This is a basic Mental health wellness website
 - Data storage using MySQL database
 - Hosted on PythonAnywhere
 ## Details about the code
--static folder contains all the CSS 
--template folder contains all the HTML pages
--app.py file contains all the route to HTML pages and python scripts
+#static folder contains all the CSS 
+template folder contains all the HTML pages
+app.py file contains all the route to HTML pages and python scripts
 ## Prerequisites
 - Python 3.10
 - Flask
